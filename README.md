@@ -3,4 +3,10 @@ Ta repozitorij vsebuje projekt, v katerem analiziram usmrtitve v ZDA. Projekt je
 
 Pri projektu uporabljam računalniški program Mathematica.
 
-Načrt projekta
+Načrt projekta:
+
+Pridobivanje podatkov - Uporabila bom Wolfram data repository.
+Analiza presaditev ledvic - Analizirala ter narisala bom nekaj grafov presaditev ledvic glede na spol, starost ter raso.
+Analiza glede na stanje po presaditvi.
+Analiza glede na čas.
+Videoposnetek - Pripravila bom videoposnetek kratke predstavitve projekta.
