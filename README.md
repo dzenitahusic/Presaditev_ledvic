@@ -10,3 +10,6 @@ Analiza presaditev ledvic - Analizirala ter narisala bom nekaj grafov presaditev
 Analiza glede na stanje po presaditvi.
 Analiza glede na čas.
 Videoposnetek - Pripravila bom videoposnetek kratke predstavitve projekta.
+
+https://youtu.be/TOPpBsXabVY
+Pripravila Dženita Husić
